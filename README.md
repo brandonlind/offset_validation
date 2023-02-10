@@ -26,6 +26,8 @@ and S. N. Aitken. 2023. How useful is genomic data for predicting  maladaptatio
 
 Notebooks are hyperlinked to be viewed on nbviewer.org, but are best viewed in a jupyter session so that cells can be collapsed or scrolled (html and nbviewer versions, links below) do not allow scrolling.
 
+Within each notebook is a html drop-down menu that shows python and package versions used.
+
 [Full Repository](https://nbviewer.org/github/brandonlind/offset_validation/tree/main/)
 
 [01_split_training_and_testing.ipynb](https://nbviewer.org/github/brandonlind/offset_validation/blob/main/01_split_training_and_testing.ipynb) - split populations into training and test sets to use for cross validation of offset methods
