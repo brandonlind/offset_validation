@@ -1,6 +1,10 @@
 # Genetic Offset Validation
 
-This repository contains code used in our manuscript <i>How useful is genomic data for predicting maladaptation to future climate?</i>. 
+This repository contains code used in our manuscript <i>How useful is genomic data for predicting maladaptation to future climate?</i>.
+
+<b>Abstract</b> 
+
+Methods using genomic information to forecast population maladaptation to climate change are becoming increasingly common, yet the lack of model validation poses serious hurdles toward their incorporation into management and policy. Here, we compare the validation of two methods – Gradient Forests (GF) and the Risk Of Non-Adaptedness – using exome capture pool-seq data from 35 to 39 populations across three conifer taxa: two Douglas-fir varieties and jack pine. We evaluate sensitivity of these algorithms to the number of input populations as well as the source and number of input loci (markers selected from genotype-environment associations [GEA] or those selected at random). We validate these methods against two-year and 52-year growth and mortality measured in independent transplant experiments. Overall, we find that both genetic offset methods often better predict transplant performance than climatic or geographic distances. We also find that while GF models are surprisingly not improved using GEA outliers, they are sensitive to the populations included in analysis. Even with promising validation results, ambiguity of model projections to future climates makes it difficult to identify the most maladapted populations using either method. Our work advances understanding of the sensitivity and applicability of these approaches, and we discuss recommendations for their future use.
 
 ---
 
@@ -17,6 +21,8 @@ and S. N. Aitken. 2023. How useful is genomic data for predicting  maladaptatio
 ---
 
 ## Outline
+
+### jupyter notebooks
 
 Notebooks are hyperlinked to be viewed on nbviewer.org, but are best viewed in a jupyter session so that cells can be collapsed or scrolled (html and nbviewer versions, links below) do not allow scrolling.
 
@@ -62,6 +68,15 @@ Notebooks are hyperlinked to be viewed on nbviewer.org, but are best viewed in a
 
 99_common_garden_maps.ipynb - create maps of populations that include the common gardens used
 
+---
+
+### Scripts
+
+extract_importance.R - From a saved RDS object output from gradient forest training, extract predictor importance and save
+
+gradient_fitting_script.R - Given a trained gradient forest, fit model to input climate data, `range_data`; save offset netCDF file.
+
+gradient_training.R - Given a set of populations, allele freqs, and environmental data, train gradient forests.
 
 ---
 
