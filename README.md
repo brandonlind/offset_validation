@@ -14,7 +14,7 @@ If you use or are inspired by code in this repository, please cite the manuscrip
 
 ```
 Lind, B. M., R. Candido-Ribeiro, P. Singh, M. Lu, D. O. Vidakovic, T. R. Booker, M. Whitlock, N. Isabel, S. Yeaman,
-and S. N. Aitken. 2023. How useful is genomic data for predicting  maladaptation to future climate? <i>bioRxiv</> DOI: https://doi.org/10.1101/2023.02.10.528022
+and S. N. Aitken. 2023. How useful is genomic data for predicting  maladaptation to future climate? bioRxiv DOI: https://doi.org/10.1101/2023.02.10.528022
 ```
 
 
