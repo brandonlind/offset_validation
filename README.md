@@ -10,11 +10,11 @@ Methods using genomic information to forecast population maladaptation to climat
 
 ## Usage
 
-If you use or inspired by code in this repository, please cite the manuscript (doi TBD).
+If you use or are inspired by code in this repository, please cite the manuscript:
 
 ```
 Lind, B. M., R. Candido-Ribeiro, P. Singh, M. Lu, D. O. Vidakovic, T. R. Booker, M. Whitlock, N. Isabel, S. Yeaman,
-and S. N. Aitken. 2023. How useful is genomic data for predicting  maladaptation to future climate? doi TBD
+and S. N. Aitken. 2023. How useful is genomic data for predicting  maladaptation to future climate? <i>bioRxiv</> DOI: https://doi.org/10.1101/2023.02.10.528022
 ```
 
 
@@ -24,7 +24,7 @@ and S. N. Aitken. 2023. How useful is genomic data for predicting  maladaptatio
 
 ### jupyter notebooks
 
-Notebooks are hyperlinked to be viewed on nbviewer.org, but are best viewed in a jupyter session so that cells can be collapsed or scrolled (html and nbviewer versions, links below) do not allow scrolling.
+Notebooks are hyperlinked to be viewed on nbviewer.org, but are best viewed in a jupyter session so that cells can be collapsed or scrolled (html and nbviewer versions, links below do not allow scrolling).
 
 Within each notebook is a html drop-down menu that shows python and package versions used. Look for "Click to view module versions" beneath the first cell.
 
