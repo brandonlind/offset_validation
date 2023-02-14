@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5083292.svg)](https://doi.org/10.5281/zenodo.7641225)
+
 # Genetic Offset Validation
 
 This repository contains code used in our manuscript <i>How useful is genomic data for predicting maladaptation to future climate?</i>.
@@ -17,6 +19,11 @@ Lind, B. M., R. Candido-Ribeiro, P. Singh, M. Lu, D. O. Vidakovic, T. R. Booker,
 and S. N. Aitken. 2023. How useful is genomic data for predicting  maladaptation to future climate? bioRxiv DOI: https://doi.org/10.1101/2023.02.10.528022
 ```
 
+or code
+```
+Lind B. 2023. GitHub.com/brandonlind/offset_validation: Preprint release (Version 1.0.0). Zendodo (2023):  DOI: https://doi.org/10.5281/zenodo.7641225
+```
+  
 
 ---
 
