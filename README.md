@@ -6,7 +6,7 @@ This repository contains code used in our manuscript <i>How useful is genomic da
 
 <b>Abstract</b> 
 
-Methods using genomic information to forecast population maladaptation to climate change are becoming increasingly common, yet the lack of model validation poses serious hurdles toward their incorporation into management and policy. Here, we compare the validation of two methods – Gradient Forests (GF) and the Risk Of Non-Adaptedness – using exome capture pool-seq data from 35 to 39 populations across three conifer taxa: two Douglas-fir varieties and jack pine. We evaluate sensitivity of these algorithms to the number of input populations as well as the source and number of input loci (markers selected from genotype-environment associations [GEA] or those selected at random). We validate these methods against two-year and 52-year growth and mortality measured in independent transplant experiments. Overall, we find that both genetic offset methods often better predict transplant performance than climatic or geographic distances. We also find that while GF models are surprisingly not improved using GEA outliers, they are sensitive to the populations included in analysis. Even with promising validation results, ambiguity of model projections to future climates makes it difficult to identify the most maladapted populations using either method. Our work advances understanding of the sensitivity and applicability of these approaches, and we discuss recommendations for their future use.
+Methods using genomic information to forecast potential population maladaptation to climate change are becoming increasingly common, yet the lack of model validation poses serious hurdles toward their incorporation into management and policy. Here, we compare the validation of maladaptation estimates derived from two methods – Gradient Forests (GF<sub>offset</sub>) and the Risk Of Non-Adaptedness (RONA) – using exome capture pool-seq data from 35 to 39 populations across three conifer taxa: two Douglas-fir varieties and jack pine. We evaluate sensitivity of these algorithms to the source of input loci (markers selected from genotype-environment associations [GEA] or those selected at random). We validate these methods against two-year and 52-year growth and mortality measured in independent transplant experiments. Overall, we find that both methods often better predict transplant performance than climatic or geographic distances. We also find that GF<sub>offset</sub> and RONA models are surprisingly not improved using GEA candidates. Even with promising validation results, variation in model projections to future climates makes it difficult to identify the most maladapted populations using either method. Our work advances understanding of the sensitivity and applicability of these approaches, and we discuss recommendations for their future use.
 
 ---
 
@@ -19,7 +19,7 @@ Lind, B. M., R. Candido-Ribeiro, P. Singh, M. Lu, D. O. Vidakovic, T. R. Booker,
 and S. N. Aitken. 2023. How useful is genomic data for predicting  maladaptation to future climate? bioRxiv DOI: https://doi.org/10.1101/2023.02.10.528022
 ```
 
-or code
+or code (revision 1 release forthcoming)
 ```
 Lind B. 2023. GitHub.com/brandonlind/offset_validation: Preprint release (Version 1.0.0). Zendodo (2023):  DOI: https://doi.org/10.5281/zenodo.7641225
 ```
