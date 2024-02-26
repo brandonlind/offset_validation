@@ -21,7 +21,7 @@ and S. N. Aitken. 2024. How useful is genomic data for predicting  maladaptatio
 
 or code
 ```
-Lind BM. 2024. GitHub.com/brandonlind/offset_validation: Publication release (Version 1.1.0). Zendodo (2023):  DOI: https://doi.org/10.5281/zenodo.7641225
+Lind BM. 2024. GitHub.com/brandonlind/offset_validation: Publication release (Version 1.1.0). Zendodo (2023):  DOI: https://doi.org/10.5281/zenodo.10708661
 
 Lind BM. 2023. GitHub.com/brandonlind/douglas_fir_natural_populations: Offset Revision 1 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8018894
 
