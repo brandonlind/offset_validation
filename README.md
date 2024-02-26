@@ -2,7 +2,7 @@
 
 # Genetic Offset Validation
 
-This repository contains code used in our manuscript <i>How useful is genomic data for predicting maladaptation to future climate?</i>.
+This repository contains code used in our manuscript <i>How useful is genomic data for predicting maladaptation to future climate?</i>
 
 <b>Abstract</b> 
 
@@ -16,16 +16,28 @@ If you use or are inspired by code in this repository, please cite the manuscrip
 
 ```
 Lind, B. M., R. Candido-Ribeiro, P. Singh, M. Lu, D. O. Vidakovic, T. R. Booker, M. Whitlock, N. Isabel, S. Yeaman,
-and S. N. Aitken. 2023. How useful is genomic data for predicting  maladaptation to future climate? bioRxiv DOI: https://doi.org/10.1101/2023.02.10.528022
+and S. N. Aitken. 2024. How useful is genomic data for predicting  maladaptation to future climate? Accepted to *Global Change Biology*. Available on bioRxiv DOI: https://doi.org/10.1101/2023.02.10.528022
 ```
 
-or code (revision 1 release forthcoming)
+or code
 ```
-Lind B. 2023. GitHub.com/brandonlind/offset_validation: Preprint release (Version 1.0.0). Zendodo (2023):  DOI: https://doi.org/10.5281/zenodo.7641225
-```
-  
+Lind BM. 2024. GitHub.com/brandonlind/offset_validation: Publication release (Version 1.1.0). Zendodo (2023):  DOI: https://doi.org/10.5281/zenodo.7641225
+
+Lind BM. 2023. GitHub.com/brandonlind/douglas_fir_natural_populations: Offset Revision 1 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8018894
+
+Lind BM. 2023. GitHub.com/brandonlind/jack_pine_natural_populations: Offset Revision 1 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8018892
+```  
 
 ---
+
+## Data
+
+Data archived in conjunction with this manuscript can be found at Dryad using the citation below. Raw sequence reads were deposited on NCBI's Sequence Read Archive under bioprojects PRJNA1079709 and PRJNA744263.
+
+```
+Lind, Brandon et al. (2024). How useful is genomic data for predicting maladaptation to future climate? [Dataset]. Dryad. https://doi.org/10.5061/dryad.sxksn039h
+```
+
 
 ## Outline
 
